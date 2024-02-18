@@ -13,7 +13,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class PostActivity extends AppCompatActivity {
-    int sizeImagesFolder = 10;
+    int sizeImagesFolder = 286;//size, not the final index
     int currentImage = 0;
     int maximum = sizeImagesFolder-1;
     int minimum = 0;
